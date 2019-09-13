@@ -1,0 +1,20 @@
+ventanas
+
+selecionar primera carpeta
+	escenario/terrernos 
+		ejemplo con el terrain y con el pro builder
+		diseno de una casa/ laberinto/ o escenario con gimp
+
+seleccionar segunda carpeta
+	personaje
+		ejemplo de nave
+		ejemplo de humano y animator/animation
+		make human
+
+carpeta 3
+	activos varios
+		power up
+		instadeath
+		disparos
+		shaders
+		etc	
